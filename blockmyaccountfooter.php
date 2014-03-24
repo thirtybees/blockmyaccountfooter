@@ -41,7 +41,7 @@ class Blockmyaccountfooter extends Module
 
 		$this->displayName = $this->l('My account block for your website\'s footer');
 		$this->description = $this->l('Displays a block with links relative to user accounts.');
-		$this->ps_versions_compliancy = array('min' => '1.5.6.1', 'max' => _PS_VERSION_);
+		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_);
 	}
 
 	public function install()
