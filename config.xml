@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
 	<name>blockmyaccountfooter</name>
-	<displayName><![CDATA[My account block for your website&#039;s footer]]></displayName>
+	<displayName><![CDATA[My account block for your website footer]]></displayName>
 	<version><![CDATA[2.0.0]]></version>
 	<description><![CDATA[Displays a block with links relative to user accounts.]]></description>
 	<author><![CDATA[thirty bees]]></author>

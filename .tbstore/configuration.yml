@@ -11,4 +11,5 @@ description_short: The block my account footer adds the login and account functi
 description: description.md
 images:
   - image-1.png
+gdpr_compliant: true
 license: AFL
