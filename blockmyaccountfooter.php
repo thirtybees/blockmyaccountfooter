@@ -40,6 +40,7 @@ class BlockMyAccountFooter extends Module
 
 		$this->displayName = $this->l('Block My Account Footer');
 		$this->description = $this->l('Displays a block with links relative to user accounts.');
+		$this->tb_versions_compliancy = '> 1.0.0';
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}
 
