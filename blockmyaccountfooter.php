@@ -75,8 +75,6 @@ class BlockMyAccountFooter extends Module
 
 	public function hookLeftColumn($params)
 	{
-		if (!$params['cookie']->isLogged())
-			return false;
 		$this->smarty->assign(array(
 			'voucherAllowed' => CartRule::isFeatureActive(),
 			'returnAllowed' => (int)Configuration::get('PS_ORDER_RETURN'),
