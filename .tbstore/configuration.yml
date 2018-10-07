@@ -7,6 +7,7 @@ tags:
   - user account
   - login
   - my account
+  - blockmyaccountfooter
 description_short: The block my account footer adds the login and account functionality for the footer of the shop.
 description: description.md
 images:
